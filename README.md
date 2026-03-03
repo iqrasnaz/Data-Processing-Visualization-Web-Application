@@ -1,4 +1,4 @@
-##Neuroimaging Data Processing Visualization Web Application 
+# Neuroimaging Data Processing Visualization Web Application 
 
 **Project Overview:**
 * Completed as a team project in a Computer Science Senior Design course, the purpose of the project is to develop movement analysis graphs in Python to track excessive head motion during functional MRI (fMRI) scans. Build a React-based frontend for researchers to access fMRI data outputs to reduce manual preprocessing efforts. This website is designed to display and analyze outputs from fMRIprep, specifically the images it produces. It provides different ways to view these images and plots, catering to both specific subjects and subject types.
